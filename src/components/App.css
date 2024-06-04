@@ -1,0 +1,25 @@
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    background-color: #8a8484;
+    margin-top: 200px;
+
+}
+
+.input1 {
+
+    padding: 10px;
+    outline: none;
+    color: white;
+
+}
+
+
+
+button {
+    padding: 10px;
+    border-radius: 0;
+}
